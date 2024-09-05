@@ -3,3 +3,8 @@
 - Estou estudando no alura;
 - Estou me desenvolvendo nas linguagens javaScript;
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
+
+## Você entra em contato comigo
+silvadellamonicaevelyn@gmail.com
+
+@evelynxzl._
